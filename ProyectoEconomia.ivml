@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?><ivml:ivml xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:cxl="http://cmap.ihmc.us/xml/cmap/" xmlns:ivml="urn:ivml" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#" version="1.7">
 <ivml:appdata>
-<map width="103" height="28">
+<map width="155" height="103">
 <style-sheet-list>
             <style-sheet id="_Default_">
                 <map-style background-color="255,255,255,0" />
@@ -10,20 +10,22 @@
                 <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255" />
             </style-sheet>
         </style-sheet-list>
+<extra-properties-list>
+<properties-list id="22039G30C-CQV6HB-8H" />
+</extra-properties-list>
 <extra-graphical-properties-list>
-            <properties-list id="22039953Q-M6P4MS-84">
+            <properties-list id="22039G30C-CQV6HB-8H">
                 <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @" />
             </properties-list>
         </extra-graphical-properties-list>
 </map>
 </ivml:appdata>
-<ivml:docinfo>
-<ivml:classification>UNCLASSIFIED</ivml:classification>
+<ivml:docinfo><ivml:classification>UNCLASSIFIED</ivml:classification>
 <ivml:author>jhon</ivml:author>
 <ivml:application>FIHMC CmapTools 6.04</ivml:application>
 <ivml:title>ProyectoEconomia</ivml:title>
-<ivml:dateCreated>2025-10-19T14:23:13-05:00</ivml:dateCreated>
-<ivml:dateModified>2025-10-19T14:23:13-05:00</ivml:dateModified>
+<ivml:dateCreated>2025-10-19T14:26:16-05:00</ivml:dateCreated>
+<ivml:dateModified>2025-10-19T14:26:16-05:00</ivml:dateModified>
 <ivml:appdata>
 <res-meta>
         
@@ -53,23 +55,38 @@
         <dc:language>en</dc:language>
         <dc:format>x-cmap/x-storable</dc:format>
         
-        <dc:extent>2524 bytes</dc:extent>
-        <dc:source>cmap:21ZXYJLVQ-1HB34F7-1:22036M7HC-203LJNX-Z:22039953Q-M6P4MS-84</dc:source>
+        <dc:extent>3351 bytes</dc:extent>
+        <dc:source>cmap:21ZXYJLVQ-1HB34F7-1:22036M7HC-203LJNX-Z:22039G30C-CQV6HB-8H</dc:source>
     </res-meta>
 </ivml:appdata>
 </ivml:docinfo>
-<ivml:settings>
-<ivml:entityFields />
-<ivml:linkFields />
+<ivml:settings><ivml:entityFields /><ivml:linkFields />
 <ivml:diagramStyle backgroundColor="#FFFFFF" />
 </ivml:settings>
 <ivml:entities>
-<ivml:entity id="2203996P7-11G8VLS-8C" type="Entity" label="Salario Minimo" x="192" y="160" fgTextColor="#000000" color="#EDF4F6">
+<ivml:entity id="22039GFXG-16BCWD0-CQ" type="Entity" label="David Card" x="668" y="279" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="78" height="25" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2203996P7-11G8VLS-8C" type="Entity" label="Salario Minimo" x="731" y="204" fgTextColor="#000000" color="#EDF4F6">
 <ivml:appdata>
 <concept />
 <concept-appearance width="101" height="25" />
 </ivml:appdata>
 </ivml:entity>
 </ivml:entities>
-<ivml:links />
+<ivml:links>
+<ivml:link id="22039GFXJ-S3KFTZ-CT" label="Según" from="2203996P7-11G8VLS-8C" to="22039GFXG-16BCWD0-CQ" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Según" />
+<linking-phrase-appearance x="699" y="241" width="38" height="14" />
+<connection id="22039GFXK-1CYKPS-D4" from-id="22039GFXJ-S3KFTZ-CT" to-id="22039GFXG-16BCWD0-CQ" />
+<connection-appearance id="22039GFXK-1CYKPS-D4" from-pos="center" to-pos="center" />
+<connection id="22039GFXJ-WW4CZW-CY" from-id="2203996P7-11G8VLS-8C" to-id="22039GFXJ-S3KFTZ-CT" />
+<connection-appearance id="22039GFXJ-WW4CZW-CY" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+</ivml:links>
 </ivml:ivml>
