@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><ivml:ivml xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:cxl="http://cmap.ihmc.us/xml/cmap/" xmlns:ivml="urn:ivml" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#" version="1.7">
+<ivml:appdata>
+<map width="103" height="28">
+<style-sheet-list>
+            <style-sheet id="_Default_">
+                <map-style background-color="255,255,255,0" />
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1" border-shape="rounded-rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" max-width="-1.0" />
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1" border-shape="rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none" />
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up" />
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255" />
+            </style-sheet>
+        </style-sheet-list>
+<extra-graphical-properties-list>
+            <properties-list id="22039953Q-M6P4MS-84">
+                <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @" />
+            </properties-list>
+        </extra-graphical-properties-list>
+</map>
+</ivml:appdata>
+<ivml:docinfo>
+<ivml:classification>UNCLASSIFIED</ivml:classification>
+<ivml:author>jhon</ivml:author>
+<ivml:application>FIHMC CmapTools 6.04</ivml:application>
+<ivml:title>ProyectoEconomia</ivml:title>
+<ivml:dateCreated>2025-10-19T14:23:13-05:00</ivml:dateCreated>
+<ivml:dateModified>2025-10-19T14:23:13-05:00</ivml:dateModified>
+<ivml:appdata>
+<res-meta>
+        
+        <dc:creator>
+            
+            <vcard:EMAIL>jhon</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>jhon</vcard:Orgname>
+            </vcard:ORG>
+        </dc:creator>
+        <dc:contributor>
+            <vcard:FN>jhon</vcard:FN>
+            <vcard:EMAIL>jhon</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>jhon</vcard:Orgname>
+            </vcard:ORG>
+        </dc:contributor>
+        <dcterms:rightsHolder>
+            <vcard:FN>jhon</vcard:FN>
+            <vcard:EMAIL>jhon</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>jhon</vcard:Orgname>
+            </vcard:ORG>
+        </dcterms:rightsHolder>
+        
+        
+        <dc:language>en</dc:language>
+        <dc:format>x-cmap/x-storable</dc:format>
+        
+        <dc:extent>2524 bytes</dc:extent>
+        <dc:source>cmap:21ZXYJLVQ-1HB34F7-1:22036M7HC-203LJNX-Z:22039953Q-M6P4MS-84</dc:source>
+    </res-meta>
+</ivml:appdata>
+</ivml:docinfo>
+<ivml:settings>
+<ivml:entityFields />
+<ivml:linkFields />
+<ivml:diagramStyle backgroundColor="#FFFFFF" />
+</ivml:settings>
+<ivml:entities>
+<ivml:entity id="2203996P7-11G8VLS-8C" type="Entity" label="Salario Minimo" x="192" y="160" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="101" height="25" />
+</ivml:appdata>
+</ivml:entity>
+</ivml:entities>
+<ivml:links />
+</ivml:ivml>
