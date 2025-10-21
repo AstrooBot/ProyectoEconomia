@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?><ivml:ivml xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:cxl="http://cmap.ihmc.us/xml/cmap/" xmlns:ivml="urn:ivml" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#" version="1.7">
 <ivml:appdata>
-<map width="355" height="150">
+<map width="3487" height="1585">
 <style-sheet-list>
             <style-sheet id="_Default_">
                 <map-style background-color="255,255,255,0" />
@@ -11,10 +11,10 @@
             </style-sheet>
         </style-sheet-list>
 <extra-properties-list>
-<properties-list id="22039G30C-CQV6HB-8H" />
+<properties-list id="22039LVW0-101XBKX-B2" />
 </extra-properties-list>
 <extra-graphical-properties-list>
-            <properties-list id="22039LVW0-101XBKX-B2">
+            <properties-list id="2206WXZNG-1V5G71M-B3">
                 <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @" />
             </properties-list>
         </extra-graphical-properties-list>
@@ -55,7 +55,7 @@
         <dc:language>en</dc:language>
         <dc:format>x-cmap/x-storable</dc:format>
         
-        <dc:source>cmap:21ZXYJLVQ-1HB34F7-1:22036M7HC-203LJNX-Z:22039LVW0-101XBKX-B2</dc:source>
+        <dc:source>cmap:22032MK3H-27RJRD5-1:22032MLRR-23XKLHB-Z:2206WXZNG-1V5G71M-B3</dc:source>
     </res-meta>
 </ivml:appdata>
 </ivml:docinfo>
@@ -63,60 +63,464 @@
 <ivml:diagramStyle backgroundColor="#FFFFFF" />
 </ivml:settings>
 <ivml:entities>
-<ivml:entity id="22039NJV9-2CVT0PL-GV" type="Entity" label="Daniel Hamermesh" x="919" y="282" fgTextColor="#000000" color="#EDF4F6">
+<ivml:entity id="2206YGGZM-2BM2CKH-2GX" type="Entity" label="Menos contrataciones." x="1957" y="1646" fgTextColor="#000000" color="#EDF4F6">
 <ivml:appdata>
 <concept />
-<concept-appearance width="125" height="25" />
+<concept-appearance width="151" height="25" />
 </ivml:appdata>
 </ivml:entity>
-<ivml:entity id="22039M3P7-1FCR309-BD" type="Entity" label="Alan Krueger" x="793" y="284" fgTextColor="#000000" color="#EDF4F6">
+<ivml:entity id="2206YH9BX-11FFGDH-2PM" type="Entity" label="Reducción de horas de trabajo." x="2117" y="1719" fgTextColor="#000000" color="#EDF4F6">
 <ivml:appdata>
 <concept />
-<concept-appearance width="90" height="28" />
+<concept-appearance width="204" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Z71YY-S5X6Z5-6JZ" type="Entity" label="Están mejor focalizadas en los hogares que lo necesitan." x="3932" y="1441" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="358" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YVX6R-1MN6R3M-4JR" type="Entity" label="Es una forma costosa e indirecta de aliviar la pobreza." x="1934" y="1126" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="344" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YS5SW-15D0CZ6-41T" type="Entity" label="Se producen &quot;fugas&quot; de recursos hacia quienes no son el objetivo." x="1554" y="1099" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="416" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YJ09Q-G0ND7V-2T2" type="Entity" label="Despidos." x="2299" y="1675" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="75" height="28" />
 </ivml:appdata>
 </ivml:entity>
 <ivml:entity id="22039GFXG-16BCWD0-CQ" type="Entity" label="David Card" x="668" y="279" fgTextColor="#000000" color="#EDF4F6">
 <ivml:appdata>
 <concept />
-<concept-appearance width="78" height="25" />
+<concept-appearance width="83" height="25" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YT66N-DZGRD1-447" type="Entity" label="Jóvenes en hogares de ingresos medios/altos." x="1223" y="1441" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="295" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YNBFJ-11KBRCX-3B6" type="Entity" label="Trabajadores menos cualificados y con menos experiencia." x="1663" y="1472" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="371" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Z2941-Z35RN7-5VJ" type="Entity" label="El Crédito Tributario por Ingreso del Trabajo (EITC) en EE. UU." x="3413" y="966" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="396" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YSW1T-1K68JY2-43B" type="Entity" label="Segundos perceptores de ingresos." x="1036" y="1356" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="228" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YMKV8-LCGWXS-33M" type="Entity" label="Trabajadores jóvenes." x="1645" y="1387" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="150" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Y4RST-18QJV9P-19P" type="Entity" label="Imponer un salario mínimo por encima del equilibrio del mercado crea una distorsión." x="2745" y="1654" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="535" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Y6HNW-19TR587-1MB" type="Entity" label="Aumenta el costo de la mano de obra para los empleadores." x="3066" y="1495" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="381" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YQ44W-1942S8-3MX" type="Entity" label="Es una política ineficaz y mal focalizada." x="1629" y="1300" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="259" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Y971M-329WQ8-24F" type="Entity" label="Se reduce la demanda de trabajadores." x="1731" y="1579" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="255" height="28" />
 </ivml:appdata>
 </ivml:entity>
 <ivml:entity id="2203996P7-11G8VLS-8C" type="Entity" label="Salario Minimo" x="747" y="163" fgTextColor="#000000" color="#EDF4F6">
 <ivml:appdata>
 <concept />
-<concept-appearance width="101" height="25" />
+<concept-appearance width="105" height="25" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Y3JCK-1806513-11R" type="Entity" label="El trabajo es un bien sujeto a las leyes de oferta y demanda." x="2886" y="1548" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="384" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Z6KH8-189MDHM-6FK" type="Entity" label="No desincentivan la contratación." x="3868" y="1587" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="217" height="26" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Z5MMK-231P94P-66M" type="Entity" label="Complementan el ingreso sin aumentar el costo para el empleador." x="3422" y="1630" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="423" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Z0QTF-1STWZYH-5M3" type="Entity" label="Subsidios salariales o créditos fiscales." x="3391" y="1251" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="249" height="26" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YWZ46-19F94L9-4R0" type="Entity" label="Políticas Alternativas" x="2663" y="1193" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="141" height="26" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="22039NJV9-2CVT0PL-GV" type="Entity" label="Daniel Hamermesh" x="2357" y="1263" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="131" height="25" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YZLX1-1RH8S0T-59J" type="Entity" label="Abordar la pobreza de manera más directa y eficiente." x="3079" y="1384" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="345" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YRKR0-1K8VL1N-3YD" type="Entity" label="Muchos beneficiarios no son el principal sustento de familias pobres." x="1490" y="1175" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="430" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Y7YFL-1L63JZ2-1XX" type="Entity" label="Consecuencias Negativas en el Empleo" x="2161" y="1419" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="250" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206WYK6F-Z2Q3B2-BG" type="Entity" label="Crítica Económica al Salario Mínimo" x="2602" y="1408" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="231" height="26" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YPKPX-WB8N82-3JH" type="Entity" label="Crítica como Herramienta Contra la Pobreza" x="1974" y="1267" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="282" height="26" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="22039M3P7-1FCR309-BD" type="Entity" label="Alan Krueger" x="793" y="284" fgTextColor="#000000" color="#EDF4F6">
+<ivml:appdata>
+<concept />
+<concept-appearance width="94" height="28" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Z5MMK-Q5LXB6-66Q" type="Entity" label="Ventajas" x="3560" y="1500" fgTextColor="#000000" color="#0000FF" cxl:is-linking-phrase="true">
+<ivml:appdata>
+<linking-phrase />
+<linking-phrase-appearance width="54" height="13" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YGGZP-15M2X96-2H0" type="Entity" label="Manifestaciones" x="2100" y="1582" fgTextColor="#000000" color="#0000FF" cxl:is-linking-phrase="true">
+<ivml:appdata>
+<linking-phrase />
+<linking-phrase-appearance width="98" height="11" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YMKV8-2V5F43-33Q" type="Entity" label="Grupos Más Afectados" x="1930" y="1403" fgTextColor="#000000" color="#0000FF" cxl:is-linking-phrase="true">
+<ivml:appdata>
+<linking-phrase />
+<linking-phrase-appearance width="136" height="14" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206YQ44W-1XHMK3J-3N0" type="Entity" label="Problema Principal" x="1832" y="1191" fgTextColor="#000000" color="#0000FF" cxl:is-linking-phrase="true">
+<ivml:appdata>
+<linking-phrase />
+<linking-phrase-appearance width="113" height="14" />
+</ivml:appdata>
+</ivml:entity>
+<ivml:entity id="2206Y7YFL-1C4LFMK-1Y0" type="Entity" label="Su crítica" x="2249" y="1334" fgTextColor="#000000" color="#0000FF" cxl:is-linking-phrase="true">
+<ivml:appdata>
+<linking-phrase />
+<linking-phrase-appearance width="58" height="12" />
 </ivml:appdata>
 </ivml:entity>
 </ivml:entities>
 <ivml:links>
+<ivml:link id="2206YMKV8-1Y5VBDK-33Z" from="2206YMKV8-2V5F43-33Q" to="2206YMKV8-LCGWXS-33M" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YMKV8-1V3QN6B-33T" from="2206Y7YFL-1L63JZ2-1XX" to="2206YMKV8-2V5F43-33Q" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YPKPX-20XWB4D-3JL" from="2206Y7YFL-1C4LFMK-1Y0" to="2206YPKPX-WB8N82-3JH" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Z6KH8-1TNDTGB-6FN" from="2206Z5MMK-Q5LXB6-66Q" to="2206Z6KH8-189MDHM-6FK" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YS5T3-91QJR-41X" from="2206YQ44W-1XHMK3J-3N0" to="2206YS5SW-15D0CZ6-41T" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Y7YFL-29XR2NY-1Y3" from="22039NJV9-2CVT0PL-GV" to="2206Y7YFL-1C4LFMK-1Y0" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YGGZP-TVVJCV-2H8" from="2206YGGZP-15M2X96-2H0" to="2206YGGZM-2BM2CKH-2GX" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YH9BX-9TF0LR-2PQ" from="2206YGGZP-15M2X96-2H0" to="2206YH9BX-11FFGDH-2PM" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Z71YY-16KQ3L9-6K2" from="2206Z5MMK-Q5LXB6-66Q" to="2206Z71YY-S5X6Z5-6JZ" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Z5MMK-15DGFMZ-66Z" from="2206Z5MMK-Q5LXB6-66Q" to="2206Z5MMK-231P94P-66M" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YQ44W-2C0ZPNB-3N3" from="2206YPKPX-WB8N82-3JH" to="2206YQ44W-1XHMK3J-3N0" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YJ09Q-15DW9ML-2T5" from="2206YGGZP-15M2X96-2H0" to="2206YJ09Q-G0ND7V-2T2" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YQ44W-8D70D7-3N9" from="2206YQ44W-1XHMK3J-3N0" to="2206YQ44W-1942S8-3MX" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YNBFJ-22DNWJY-3B9" from="2206YMKV8-2V5F43-33Q" to="2206YNBFJ-11KBRCX-3B6" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YRKR3-1XY4GFS-3YH" from="2206YQ44W-1XHMK3J-3N0" to="2206YRKR0-1K8VL1N-3YD" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YGGZP-18CKDMK-2H3" from="2206Y7YFL-1L63JZ2-1XX" to="2206YGGZP-15M2X96-2H0" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YVX6W-22LFQ1S-4JV" from="2206YQ44W-1XHMK3J-3N0" to="2206YVX6R-1MN6R3M-4JR" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Z5MMK-3RGRYH-66T" from="2206Z0QTF-1STWZYH-5M3" to="2206Z5MMK-Q5LXB6-66Q" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Y7YFL-1H2FSRK-1Y8" from="2206Y7YFL-1C4LFMK-1Y0" to="2206Y7YFL-1L63JZ2-1XX" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<connection />
+<connection-appearance from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206WYK6F-25Z515P-BK" label="Su vision" from="22039NJV9-2CVT0PL-GV" to="2206WYK6F-Z2Q3B2-BG" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Su vision" />
+<linking-phrase-appearance x="2512" y="1331" width="57" height="11" />
+<connection id="2206WYK6F-1YQW014-BN" from-id="22039NJV9-2CVT0PL-GV" to-id="2206WYK6F-25Z515P-BK" />
+<connection-appearance id="2206WYK6F-1YQW014-BN" from-pos="center" to-pos="center" />
+<connection id="2206WYK6R-FKDP3R-C2" from-id="2206WYK6F-25Z515P-BK" to-id="2206WYK6F-Z2Q3B2-BG" />
+<connection-appearance id="2206WYK6R-FKDP3R-C2" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YT66N-Y81MJR-44B" label="Ejemplo" from="2206YRKR0-1K8VL1N-3YD" to="2206YT66N-DZGRD1-447" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Ejemplo" />
+<linking-phrase-appearance x="1302" y="1316" width="51" height="14" />
+<connection id="2206YT66N-1FT5GZJ-44F" from-id="2206YRKR0-1K8VL1N-3YD" to-id="2206YT66N-Y81MJR-44B" />
+<connection-appearance id="2206YT66N-1FT5GZJ-44F" from-pos="center" to-pos="center" />
+<connection id="2206YT66N-14ZTJ3X-44L" from-id="2206YT66N-Y81MJR-44B" to-id="2206YT66N-DZGRD1-447" />
+<connection-appearance id="2206YT66N-14ZTJ3X-44L" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Y3JCK-1ZMBHFL-11V" label="Concepto Clave" from="2206WYK6F-Z2Q3B2-BG" to="2206Y3JCK-1806513-11R" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Concepto Clave" />
+<linking-phrase-appearance x="2722" y="1471" width="95" height="14" />
+<connection id="2206Y3JCK-1PT1ZLD-123" from-id="2206Y3JCK-1ZMBHFL-11V" to-id="2206Y3JCK-1806513-11R" />
+<connection-appearance id="2206Y3JCK-1PT1ZLD-123" from-pos="center" to-pos="center" />
+<connection id="2206Y3JCK-1MFKC3S-11Y" from-id="2206WYK6F-Z2Q3B2-BG" to-id="2206Y3JCK-1ZMBHFL-11V" />
+<connection-appearance id="2206Y3JCK-1MFKC3S-11Y" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Y971T-1YVDVH3-24J" label="Resultado Directo" from="2206Y7YFL-1L63JZ2-1XX" to="2206Y971M-329WQ8-24F" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Resultado Directo" />
+<linking-phrase-appearance x="1954" y="1514" width="109" height="11" />
+<connection id="2206Y971T-9LSHK4-24M" from-id="2206Y7YFL-1L63JZ2-1XX" to-id="2206Y971T-1YVDVH3-24J" />
+<connection-appearance id="2206Y971T-9LSHK4-24M" from-pos="center" to-pos="center" />
+<connection id="2206Y971T-27WS1JY-24T" from-id="2206Y971T-1YVDVH3-24J" to-id="2206Y971M-329WQ8-24F" />
+<connection-appearance id="2206Y971T-27WS1JY-24T" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YZLX1-254FSWS-59M" label="Objetivo" from="2206YWZ46-19F94L9-4R0" to="2206YZLX1-1RH8S0T-59J" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Objetivo" />
+<linking-phrase-appearance x="2860" y="1303" width="53" height="14" />
+<connection id="2206YZLX1-N825LY-59W" from-id="2206YZLX1-254FSWS-59M" to-id="2206YZLX1-1RH8S0T-59J" />
+<connection-appearance id="2206YZLX1-N825LY-59W" from-pos="center" to-pos="center" />
+<connection id="2206YZLX1-1MC44TZ-59Q" from-id="2206YWZ46-19F94L9-4R0" to-id="2206YZLX1-254FSWS-59M" />
+<connection-appearance id="2206YZLX1-1MC44TZ-59Q" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Y6HNW-CLRQJW-1MF" label="Efecto Inmediato" from="2206WYK6F-Z2Q3B2-BG" to="2206Y6HNW-19TR587-1MB" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Efecto Inmediato" />
+<linking-phrase-appearance x="2859" y="1409" width="105" height="11" />
+<connection id="2206Y6HNW-24ZCWGQ-1MJ" from-id="2206WYK6F-Z2Q3B2-BG" to-id="2206Y6HNW-CLRQJW-1MF" />
+<connection-appearance id="2206Y6HNW-24ZCWGQ-1MJ" from-pos="center" to-pos="center" />
+<connection id="2206Y6HNW-5FGZRC-1MP" from-id="2206Y6HNW-CLRQJW-1MF" to-id="2206Y6HNW-19TR587-1MB" />
+<connection-appearance id="2206Y6HNW-5FGZRC-1MP" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Z2941-SXBYHM-5VM" label="Ejemplo Concreto" from="2206Z0QTF-1STWZYH-5M3" to="2206Z2941-Z35RN7-5VJ" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Ejemplo Concreto" />
+<linking-phrase-appearance x="3400" y="1124" width="109" height="14" />
+<connection id="2206Z2941-MVCR97-5VQ" from-id="2206Z0QTF-1STWZYH-5M3" to-id="2206Z2941-SXBYHM-5VM" />
+<connection-appearance id="2206Z2941-MVCR97-5VQ" from-pos="center" to-pos="center" />
+<connection id="2206Z2941-TQWR2W-5VX" from-id="2206Z2941-SXBYHM-5VM" to-id="2206Z2941-Z35RN7-5VJ" />
+<connection-appearance id="2206Z2941-TQWR2W-5VX" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="22039M3PB-N5KLYM-BH" label="Según" from="2203996P7-11G8VLS-8C" to="22039M3P7-1FCR309-BD" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Según" />
+<linking-phrase-appearance x="749" y="231" width="40" height="14" />
+<connection id="22039M3PC-N0QRWM-BV" from-id="22039M3PB-N5KLYM-BH" to-id="22039M3P7-1FCR309-BD" />
+<connection-appearance id="22039M3PC-N0QRWM-BV" from-pos="center" to-pos="center" style="solid" />
+<connection id="22039M3PC-13G04RF-BL" from-id="2203996P7-11G8VLS-8C" to-id="22039M3PB-N5KLYM-BH" />
+<connection-appearance id="22039M3PC-13G04RF-BL" from-pos="center" to-pos="center" style="solid" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YSW1Y-1K2K9R3-43F" label="Ejemplo" from="2206YRKR0-1K8VL1N-3YD" to="2206YSW1T-1K68JY2-43B" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Ejemplo" />
+<linking-phrase-appearance x="1132" y="1274" width="51" height="14" />
+<connection id="2206YSW1Y-257BMR-43J" from-id="2206YRKR0-1K8VL1N-3YD" to-id="2206YSW1Y-1K2K9R3-43F" />
+<connection-appearance id="2206YSW1Y-257BMR-43J" from-pos="center" to-pos="center" />
+<connection id="2206YSW1Y-3Q2DJ8-43P" from-id="2206YSW1Y-1K2K9R3-43F" to-id="2206YSW1T-1K68JY2-43B" />
+<connection-appearance id="2206YSW1Y-3Q2DJ8-43P" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206YWZ46-32GPFP-4R3" label="Su propuesta" from="22039NJV9-2CVT0PL-GV" to="2206YWZ46-19F94L9-4R0" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Su propuesta" />
+<linking-phrase-appearance x="2491" y="1207" width="82" height="13" />
+<connection id="2206YWZ48-MS4V8C-4RC" from-id="2206YWZ46-32GPFP-4R3" to-id="2206YWZ46-19F94L9-4R0" />
+<connection-appearance id="2206YWZ48-MS4V8C-4RC" from-pos="center" to-pos="center" />
+<connection id="2206YWZ48-VNVDS2-4R6" from-id="22039NJV9-2CVT0PL-GV" to-id="2206YWZ46-32GPFP-4R3" />
+<connection-appearance id="2206YWZ48-VNVDS2-4R6" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
 <ivml:link id="22039NJVB-K0LJ2T-GY" label="Según" from="2203996P7-11G8VLS-8C" to="22039NJV9-2CVT0PL-GV" color="#000000" type="Link" lineStyle="solid">
 <ivml:appdata>
 <linking-phrase label="Según" />
-<linking-phrase-appearance x="810" y="226" width="38" height="14" />
+<linking-phrase-appearance x="810" y="226" width="40" height="14" />
 <connection id="22039NJVC-251LWDQ-H6" from-id="22039NJVB-K0LJ2T-GY" to-id="22039NJV9-2CVT0PL-GV" />
-<connection-appearance id="22039NJVC-251LWDQ-H6" from-pos="center" to-pos="center" />
+<connection-appearance id="22039NJVC-251LWDQ-H6" from-pos="center" to-pos="center" style="solid" />
 <connection id="22039NJVC-3YBKZJ-H1" from-id="2203996P7-11G8VLS-8C" to-id="22039NJVB-K0LJ2T-GY" />
-<connection-appearance id="22039NJVC-3YBKZJ-H1" from-pos="center" to-pos="center" />
+<connection-appearance id="22039NJVC-3YBKZJ-H1" from-pos="center" to-pos="center" style="solid" />
 </ivml:appdata>
 </ivml:link>
 <ivml:link id="22039GFXJ-S3KFTZ-CT" label="Según" from="2203996P7-11G8VLS-8C" to="22039GFXG-16BCWD0-CQ" color="#000000" type="Link" lineStyle="solid">
 <ivml:appdata>
 <linking-phrase label="Según" />
-<linking-phrase-appearance x="699" y="241" width="38" height="14" />
+<linking-phrase-appearance x="699" y="241" width="40" height="14" />
 <connection id="22039GFXK-1CYKPS-D4" from-id="22039GFXJ-S3KFTZ-CT" to-id="22039GFXG-16BCWD0-CQ" />
 <connection-appearance id="22039GFXK-1CYKPS-D4" from-pos="center" to-pos="center" style="solid" />
 <connection id="22039GFXJ-WW4CZW-CY" from-id="2203996P7-11G8VLS-8C" to-id="22039GFXJ-S3KFTZ-CT" />
 <connection-appearance id="22039GFXJ-WW4CZW-CY" from-pos="center" to-pos="center" style="solid" />
 </ivml:appdata>
 </ivml:link>
-<ivml:link id="22039M3PB-N5KLYM-BH" label="Según" from="2203996P7-11G8VLS-8C" to="22039M3P7-1FCR309-BD" color="#000000" type="Link" lineStyle="solid">
+<ivml:link id="2206Z0QTF-170R719-5M6" label="Solución Principal" from="2206YWZ46-19F94L9-4R0" to="2206Z0QTF-1STWZYH-5M3" color="#000000" type="Link" lineStyle="solid">
 <ivml:appdata>
-<linking-phrase label="Según" />
-<linking-phrase-appearance x="749" y="231" width="38" height="14" />
-<connection id="22039M3PC-N0QRWM-BV" from-id="22039M3PB-N5KLYM-BH" to-id="22039M3P7-1FCR309-BD" />
-<connection-appearance id="22039M3PC-N0QRWM-BV" from-pos="center" to-pos="center" />
-<connection id="22039M3PC-13G04RF-BL" from-id="2203996P7-11G8VLS-8C" to-id="22039M3PB-N5KLYM-BH" />
-<connection-appearance id="22039M3PC-13G04RF-BL" from-pos="center" to-pos="center" />
+<linking-phrase label="Solución Principal" />
+<linking-phrase-appearance x="2939" y="1189" width="108" height="14" />
+<connection id="2206Z0QTF-Q59S2N-5M9" from-id="2206YWZ46-19F94L9-4R0" to-id="2206Z0QTF-170R719-5M6" />
+<connection-appearance id="2206Z0QTF-Q59S2N-5M9" from-pos="center" to-pos="center" />
+<connection id="2206Z0QTF-24YZXJZ-5MG" from-id="2206Z0QTF-170R719-5M6" to-id="2206Z0QTF-1STWZYH-5M3" />
+<connection-appearance id="2206Z0QTF-24YZXJZ-5MG" from-pos="center" to-pos="center" />
+</ivml:appdata>
+</ivml:link>
+<ivml:link id="2206Y4RST-RJRP4V-19S" label="Mecanismo" from="2206WYK6F-Z2Q3B2-BG" to="2206Y4RST-18QJV9P-19P" color="#000000" type="Link" lineStyle="solid">
+<ivml:appdata>
+<linking-phrase label="Mecanismo" />
+<linking-phrase-appearance x="2589" y="1513" width="69" height="11" />
+<connection id="2206Y4RST-14G2G0Z-19W" from-id="2206WYK6F-Z2Q3B2-BG" to-id="2206Y4RST-RJRP4V-19S" />
+<connection-appearance id="2206Y4RST-14G2G0Z-19W" from-pos="center" to-pos="center" />
+<connection id="2206Y4RST-1S3BPCZ-1B1" from-id="2206Y4RST-RJRP4V-19S" to-id="2206Y4RST-18QJV9P-19P" />
+<connection-appearance id="2206Y4RST-1S3BPCZ-1B1" from-pos="center" to-pos="center" />
 </ivml:appdata>
 </ivml:link>
 </ivml:links>
