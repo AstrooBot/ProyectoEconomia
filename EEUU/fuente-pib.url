@@ -1,0 +1,5 @@
+https://fred.stlouisfed.org/series/GDP
+[DEFAULT]
+BASEURL=https://fred.stlouisfed.org/series/GDP
+[InternetShortcut]
+URL=https://fred.stlouisfed.org/series/GDP

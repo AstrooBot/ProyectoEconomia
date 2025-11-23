@@ -1,0 +1,5 @@
+https://datos.bancomundial.org/indicador/NY.GDP.MKTP.KD.ZG?locations=CN
+[DEFAULT]
+BASEURL=https://datos.bancomundial.org/indicador/NY.GDP.MKTP.KD.ZG?locations=CN
+[InternetShortcut]
+URL=https://datos.bancomundial.org/indicador/NY.GDP.MKTP.KD.ZG?locations=CN
