@@ -1,0 +1,5 @@
+https://tradingeconomics.com/brazil/unemployment-rate
+[DEFAULT]
+BASEURL=https://tradingeconomics.com/brazil/unemployment-rate
+[InternetShortcut]
+URL=https://tradingeconomics.com/brazil/unemployment-rate

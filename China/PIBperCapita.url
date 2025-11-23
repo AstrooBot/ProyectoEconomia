@@ -1,0 +1,5 @@
+https://datos.bancomundial.org/indicador/NY.GDP.PCAP.CD?locations=CN
+[DEFAULT]
+BASEURL=https://datos.bancomundial.org/indicador/NY.GDP.PCAP.CD?locations=CN
+[InternetShortcut]
+URL=https://datos.bancomundial.org/indicador/NY.GDP.PCAP.CD?locations=CN
